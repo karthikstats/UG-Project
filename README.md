@@ -1,2 +1,3 @@
 # UG-Project
-A STATISTICAL ANALYSIS OF RISK FACTORS IN HEART DISEASE USING MULTIVARIATE ANALYSIS TECHNIQUES A project work submitted to Dr. AMBEDKAR GOVERNMENT ARTS COLLEGE.
+A Statistical Analysis of Risk Factors in Heart Disease using Multivariate Analysis Techniques - A project work submitted to Dr. Ambedkar Government Arts College, Chennai.
+This project fully performed using SPSS Software
